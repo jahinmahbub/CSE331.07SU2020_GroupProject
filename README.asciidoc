@@ -1,0 +1,31 @@
+= CSE331 Project (EVM) - Summer 2020
+Asaduzzaman Noor <asaduzzaman.noor@northsouth.edu>
+
+== Git Repo for the Project
+
+This is the git repo for the CSE331 Project. +
+Section: 7 +
+Faculty: Rishad Arfin (RsF)
+
+[%hardbreaks]
+_Project Name_ : Electronic Voting Machine +
+_Project Type_ : Guided +
+_Group No._ : 2
+
+'''
+
+*Group Members* :
+
+* Asaduzzaman Noor - 163 1231 042
+* Sakiba Sabrina - 163 1165 042
+* Tarana Kabir - 162 0404 042
+* Jahin Mahbub - 153 1552 042
+
+'''
+
+*Used Softwares* :
+
+* Proteus 8.9
+* μVision 5.27
+
+
